@@ -9,5 +9,5 @@ it("App Router: Works with Server Components", () => {
 
   screen.debug();
 
-  expect(screen.getByRole("heading")).toHaveTextContent("hej");
+  expect(screen.getByRole("heading")).toHaveTextContent("hopp");
 });
